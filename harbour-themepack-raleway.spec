@@ -1,6 +1,6 @@
 Name:          harbour-themepack-raleway
 Version:       0.0.1
-Release:       3
+Release:       4
 Summary:       Raleway theme pack
 Group:         System/Tools
 Vendor:        fravaccaro
